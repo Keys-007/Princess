@@ -1,10 +1,10 @@
-<h1 align="centre">SHEEBA MUSIC Bot-V3.5 🎶</h1>
+<h1 align="centre">Akeno MUSIC Bot-V1.0 🎶</h1>
 
 ### A bot that can play music on telegram group's voice call
 
 
 <p align="center">
-  <img src="https://telegra.ph/file/3cef9662e86bd313ec045.jpg">
+  <img src="https://telegra.ph/file/d06f152fe1c7a9f5e98c4.jpg)">
 </p>
 
 <h2> Whats new 🔥 </h2>
@@ -61,8 +61,8 @@ The easiest way to deploy this Bot
 
 Get STRING_NAME from here:
 
-[![GenerateString](https://img.shields.io/badge/repl.it-generateString-silver)](https://replit.com/@HuntingBots/Matrixvcbot)
+[![GenerateString](https://img.shields.io/badge/repl.it-generateString-silver)](https://replit.com/@SpEcHiDe/GenerateStringSession)
 
 
 ## Special Thanks To
-##   My Buddy ==>> [The Ghost Hunter](https://telegram.dog/The_Ghost_Hunter)
+##   My Buddy ==>> [aksr aashish](https://telegram.dog/itzz_axel)
