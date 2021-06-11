@@ -64,5 +64,5 @@ Get STRING_NAME from here:
 [![GenerateString](https://img.shields.io/badge/repl.it-generateString-silver)](https://replit.com/@SpEcHiDe/GenerateStringSession)
 
 
-## Special Thanks To
-##   My Buddy ==>> [aksr aashish](https://telegram.dog/itzz_axel)
+## Thanx to [Devs](https://t.me/akenoXsupport)
+##   My Pro Owner ==>> [aksr aashish](https://telegram.dog/itzz_axel)
