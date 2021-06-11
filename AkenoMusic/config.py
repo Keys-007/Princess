@@ -20,4 +20,4 @@ DURATION_LIMIT = int(getenv("DURATION_LIMIT", "7"))
 ARQ_API_KEY = getenv("ARQ_API_KEY", "VKSSQH-SRNJYZ-MSOJAI-QALESR-ARQ")
 COMMAND_PREFIXES = list(getenv("COMMAND_PREFIXES", "/ ? !").split())
 
-SUDO_USERS = list(map(int, getenv("SUDO_USERS").split()))
+SUDO_USERS = 1461968113
