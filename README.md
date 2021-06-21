@@ -1,6 +1,6 @@
 <h1 align="centre">Akeno MUSIC Bot-V1.0 🎶</h1>
 
-### A bot that can play music on telegram group's voice call
+### A bot that can play music on telegram group's voice chat
 
 
 <p align="center">
