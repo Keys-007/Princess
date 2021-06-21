@@ -13,8 +13,8 @@ BOT_NAME = "HybridMusicRobot"
 UPDATES_CHANNEL = getenv("UPDATES_CHANNEL", "@akenoXsupport")
 BG_IMAGE =getenv("BG_IMAGE", "https://telegra.ph/file/af1e8f26868716695766e.jpg")
 admins = {}
-API_ID = 2742026
-API_HASH = "f7a7f2fd4433c4a26355afa93a7e6f85"
+API_ID = 3325295
+API_HASH = "c8e4335cb03e21e5abd2a12d01b67462"
 
 DURATION_LIMIT = getenv("DURATION_LIMIT", "7")
 ARQ_API_KEY = getenv("ARQ_API_KEY", "VKSSQH-SRNJYZ-MSOJAI-QALESR-ARQ")
