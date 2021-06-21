@@ -393,7 +393,7 @@ async def play(_, message: Message):
     try:
         user = await USER.get_me()
     except:
-        user.first_name = "helper"
+        user.first_name = "Xenos"
     usar = user
     wew = usar.id
     try:
@@ -430,7 +430,7 @@ async def play(_, message: Message):
                     # print(e)
                     await lel.edit(
                         f"<b>🔴 Flood Wait Error 🔴 \nUser {user.first_name} couldn't join your group due to heavy requests for userbot! Make sure user is not banned in group."
-                        "\n\nOr manually add assistant to your Group and try again</b>",
+                        "\n\nOr manually add @Xenos_Op to your Group and try again</b>",
                     )
     try:
         await USER.get_chat(chid)
@@ -631,7 +631,7 @@ async def deezer(client: Client, message_: Message):
     try:
         user = await USER.get_me()
     except:
-        user.first_name = "ShasaMusic"
+        user.first_name = "Xenos"
     usar = user
     wew = usar.id
     try:
@@ -668,7 +668,7 @@ async def deezer(client: Client, message_: Message):
                     # print(e)
                     await lel.edit(
                         f"<b>🔴 Flood Wait Error 🔴 \nUser {user.first_name} couldn't join your group due to heavy requests for userbot! Make sure user is not banned in group."
-                        "\n\nOr manually add assistant to your Group and try again</b>",
+                        "\n\nOr manually add @Xenos_Op to your Group and try again</b>",
                     )
     try:
         await USER.get_chat(chid)
@@ -684,7 +684,7 @@ async def deezer(client: Client, message_: Message):
     queryy = text[1]
     query = queryy
     res = lel
-    await res.edit(f"Searching 👀👀👀 for `{queryy}` on deezer")
+    await res.edit(f"Searching 🔎🔎 for `{queryy}` on deezer")
     try:
         songs = await arq.deezer(query,1)
         if not songs.ok:
@@ -694,7 +694,7 @@ async def deezer(client: Client, message_: Message):
         url = songs.result[0].url
         artist = songs.result[0].artist
         duration = songs.result[0].duration
-        thumbnail = "https://telegra.ph/file/f6086f8909fbfeb0844f2.png"
+        thumbnail = "https://telegra.ph/file/af1e8f26868716695766e.jpg"
 
     except:
         await res.edit("Found Literally Nothing, You Should Work On Your English!")
@@ -759,7 +759,7 @@ async def jiosaavn(client: Client, message_: Message):
     try:
         user = await USER.get_me()
     except:
-        user.first_name = "ShasaMusic"
+        user.first_name = "Xenos"
     usar = user
     wew = usar.id
     try:
@@ -770,7 +770,7 @@ async def jiosaavn(client: Client, message_: Message):
             if administrator == message_.from_user.id:
                 if message_.chat.title.startswith("Channel Music: "):
                     await lel.edit(
-                        "<b>Remember to add helper to your channel</b>",
+                        "<b>Remember to add @Xenos_Op to your channel</b>",
                     )
                     pass
                 try:
@@ -796,7 +796,7 @@ async def jiosaavn(client: Client, message_: Message):
                     # print(e)
                     await lel.edit(
                         f"<b>🔴 Flood Wait Error 🔴 \nUser {user.first_name} couldn't join your group due to heavy requests for userbot! Make sure user is not banned in group."
-                        "\n\nOr manually add @asunahelper to your Group and try again</b>",
+                        "\n\nOr manually add @Xenos_Op to your Group and try again</b>",
                     )
     try:
         await USER.get_chat(chid)
@@ -811,7 +811,7 @@ async def jiosaavn(client: Client, message_: Message):
     text = message_.text.split(" ", 1)
     query = text[1]
     res = lel
-    await res.edit(f"Searching 👀👀👀 for `{query}` on jio saavn")
+    await res.edit(f"Searching 🔎🔎 for `{query}` on jio saavn")
     try:
         songs = await arq.saavn(query)
         if not songs.ok:
